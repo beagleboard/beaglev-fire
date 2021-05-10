@@ -1,0 +1,16 @@
+Project Name: polarbone
+Location: /home/jkridner/polarbone/default-load/polarbone
+Description: 
+Preferred HDL Type: Verilog
+
+#-----------------------------------------------------
+                  Device Details
+#-----------------------------------------------------
+
+Part Number    : MPFS250T-FCVG484E
+Family         : PolarFireSoC
+Die            : MPFS250T
+Package        : FCVG484
+Speed          : STD
+Core Voltage   : 1.05
+Range          : EXT
