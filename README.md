@@ -1,5 +1,14 @@
 # BeagleV-Fire
-Placeholder for work on a Polarfire SoC based RISC-V BeagleBone compatible board
+BeagleV®-Fire is a revolutionary SBC powered by the Microchip’s PolarFire® MPFS025T FCVG484E 5x core RISC-V System on Chip (SoC) with FPGA fabric. BeagleV®-Fire opens up new horizons for developers, tinkerers, and the open-source community to explore the vast potential of RISC-V architecture and FPGA technology. It has the same P8 & P9 cape header pins as BeagleBone Black allowing you to stack your favourite BeagleBone cape on top to expand it’s capability. Built around the powerful and energy-efficient RISC-V instruction set architecture (ISA) along with its versatile FPGA fabric, BeagleV®-Fire SBC offers unparalleled opportunities for developers, hobbyists, and researchers to explore and experiment with RISC-V technology.
+
+## Links
+
+* Terms and conditions: https://docs.beagleboard.org/latest/boards/terms-and-conditions.html
+* Documentation: https://docs.beagleboard.org/latest/boards/beaglev/fire
+* Design: https://git.beagleboard.org/beaglev-fire/beaglev-fire
+* Support: https://forum.beagleboard.org
+* Repair: https://www.beagleboard.org/rma
+* Purchase: https://beaglev-fire.org
 
 ## Goals
 * Provide a platform for developing fully open-source SoCs
