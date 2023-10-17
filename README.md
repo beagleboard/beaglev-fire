@@ -6,7 +6,7 @@ BeagleV®-Fire is a revolutionary SBC powered by the Microchip’s PolarFire® M
 * Terms and conditions: https://docs.beagleboard.org/latest/boards/terms-and-conditions.html
 * Documentation: https://docs.beagleboard.org/latest/boards/beaglev/fire
 * Design: https://git.beagleboard.org/beaglev-fire/beaglev-fire
-* Support: https://forum.beagleboard.org
+* Support: https://forum.beagleboard.org/tags/c/beaglev/15/fire
 * Repair: https://www.beagleboard.org/rma
 * Purchase: https://beaglev-fire.org
 
