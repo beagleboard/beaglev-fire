@@ -15,7 +15,7 @@ BeagleV®-Fire is a revolutionary SBC powered by the Microchip’s PolarFire® M
 * Provide solution for low-latency control, such as manufacturing machines
 * Long-term availability for education
 
-## Initial features in rank order of priority
+## Features
 * Microchip MPFS025T-FCVG484E RISC-V based Polarfire SoC with 25k logic elements
 * BeagleBone AI compatible mechanical footprint, expansion headers, serial header, buttons, LEDs and microSD slot
 * 2GB LPDDR4
@@ -27,7 +27,6 @@ BeagleV®-Fire is a revolutionary SBC powered by the Microchip’s PolarFire® M
 * TagConnect compatible JTAG header footprint
 * USB Type-C with SuperSpeed/PCIe, able to provide power
 * CSI / Low-speed flexible flat cable (FFC) expansion connector
-* ~CANOpen 10-pin multipole connector, reserved signals brought to SoC~
 * [Support for HDMI framer board through Cape headers](https://wiki.seeedstudio.com/BeagleBone_Green_HDMI_Cape/)
 * Additional power connector
 * [SYZYGY high-speed expansion connector](https://syzygyfpga.io/)
